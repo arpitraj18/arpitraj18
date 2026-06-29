@@ -12,7 +12,7 @@
 - 👯 I'm looking to collaborate on **ML / AI projects, data dashboards, and full-stack applications**
 - 🤝 I'm looking for help with **scaling RAG + agentic systems for real-world data**
 - 💬 Ask me about **Python, Machine Learning, Data Science, RAG/LLMs, Computer Vision, Data Dashboards, and DSA**
-- 📫 How to reach me **<!-- TODO: add your email --> your.email@example.com**
+- 📫 How to reach me **arpitimp18@gmail.com**
 - ⚡ Fun fact **<!-- TODO: add a fun fact about yourself -->**
 
 ---
@@ -50,12 +50,11 @@ A quick tour across the different areas I work in:
 
 ### 🤝 Connect with me:
 
-<!-- TODO: replace the placeholder URLs/usernames below with your own -->
+<!-- Social links -->
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://twitter.com/your-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-  <a href="https://leetcode.com/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
-  <a href="mailto:your.email@example.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/arpitrajj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/arpitrajjj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
+  <a href="mailto:arpitimp18@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="30" width="40" /></a>
 </p>
 
 ---
@@ -107,8 +106,8 @@ A quick tour across the different areas I work in:
 **Data Apps & Tools**
 
 <p align="left">
-  <a href="https://streamlit.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/streamlit/streamlit-icon.svg" alt="streamlit" width="40" height="40"/></a>
-  <a href="https://plotly.com/" target="_blank"><img src="https://www.svgrepo.com/show/354243/plotly.svg" alt="plotly" width="40" height="40"/></a>
+  <a href="https://streamlit.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/></a>
+  <a href="https://plotly.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="plotly" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
@@ -119,9 +118,6 @@ A quick tour across the different areas I work in:
 
 ### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpitraj18&show_icons=true&locale=en" alt="arpitraj18 stats" />
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitraj18&show_icons=true&locale=en&layout=compact" alt="top languages" />
 </p>
