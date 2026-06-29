@@ -1,5 +1,4 @@
 # Hi 👋, I'm Arpit Raj
-# Hi 👋, I'm Arpit Raj
 
 ### 🤖 AI Engineer in the making | Turning data into intelligent systems
 
